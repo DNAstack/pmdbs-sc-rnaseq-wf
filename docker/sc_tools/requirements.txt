@@ -6,7 +6,7 @@ matplotlib==3.10.3
 muon==0.1.7
 numpy==2.2.0
 pandas==2.3.1
-pyarrow==20.0.0
+pyarrow==23.0.1
 scanpy==1.11.3
 scib-metrics==0.5.6
 scikit-learn==1.7.0
